@@ -1,0 +1,9 @@
+
+No such directory: d1
+Directory created: d1
+Successfuly moved to directory: d1
+Directory created: d2
+Successfuly moved to directory: root
+No such file: file1.txt
+name            type       size       mode       last_modified      
+d1              dir        -          -          2023-05-10 23:37:29

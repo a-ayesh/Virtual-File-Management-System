@@ -1,0 +1,14 @@
+
+Unknown command: create_file1.txt
+name            type       size       mode       last_modified      
+File created: file2.txt
+No such file: file1.txt
+No such file: file1.txt
+No such file: file1.txt
+Directory created: d1
+name            type       size       mode       last_modified      
+file2.txt       txt        0B         None       2023-05-10 23:57:30
+d1              dir        -          -          2023-05-10 23:57:30
+Directory deleted: d1
+name            type       size       mode       last_modified      
+file2.txt       txt        0B         None       2023-05-10 23:57:30

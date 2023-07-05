@@ -1,0 +1,11 @@
+create_file1.txt
+ls
+create file2.txt
+open file1.txt r
+read_from_file file1.txt
+close file1.txt
+mkdir d1
+ls
+rmdir d1
+ls
+exit

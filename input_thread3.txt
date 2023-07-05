@@ -1,0 +1,8 @@
+chdir d1
+mkdir d1
+chdir d1
+mkdir d2
+chdir /
+move file1.txt d1/d2
+ls
+exit

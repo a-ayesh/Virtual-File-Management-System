@@ -1,0 +1,9 @@
+help
+show_memory_map
+read_from_file file1.txt r
+open file1.txt r
+read_from_file file1.txt r
+close file1.txt
+truncate file2.txt
+show_memory_map
+exit

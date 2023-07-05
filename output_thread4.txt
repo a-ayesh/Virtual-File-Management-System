@@ -1,0 +1,23 @@
+Available commands:  ls                                         List contents of current directory  mkdir <name>                               Create new directory in current directory  rmdir <name>                               Remove directory from current directory  chdir <path>                               Change current directory. Set path as:                                             ..      ==>     Move up directory                                             /       ==>     Return to root                                             /d/d    ==>     Absolute path                                             d/d     ==>     Relative path  create <name>                              Create new file in current directory  delete <name>                              Remove file from current directory  open <name> <mode>                         Open file in r or w mode  close <name>                               Close file  write_to_file <name> <data> <offset>       Write to file at a specific offset (optional)  read_from_file <name> <offset> <length>    Read from file from a specific offset (optional)  truncate <name> <size>                     Truncate file to a specified size (or all of it if not specified)  show_memory_map                            Display Memory Map  help                                       Display this help message  exit                                       Exit the program
+
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+Usage: read_from_file <name> <offset> <length>
+No such file: file1.txtUsage: read_from_file <name> <offset> <length>
+No such file: file1.txt
+No such file: file2.txt
+
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
+*	*	*	*	*	*	*	*	
