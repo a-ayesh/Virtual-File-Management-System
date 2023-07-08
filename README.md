@@ -1,4 +1,4 @@
-# Virtual-File-Management-System
+# Virtual File Management System
 Operating Systems Project: "Create a Linux-Mockup Remote Multi-Threaded Virtual File Management System". 
 
 **Documentation.doxc** contains all necessary information about the purpose, functionality, as well as a user guide.
